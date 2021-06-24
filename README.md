@@ -7,4 +7,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pankajmasiwal18&show_icons=true&locale=en&layout=compact" alt="pankajmasiwal18" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pankajmasiwal18&show_icons=true&locale=en" alt="pankajmasiwal18" /></p>
