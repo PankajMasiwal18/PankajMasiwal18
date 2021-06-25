@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Pankaj Masiwal</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pankajmasiwal18&label=Profile%20views&color=0e75b6&style=flat" alt="pankajmasiwal18" /> </p>
 
 
 <h3 align="left">Languages and Tools:</h3>
